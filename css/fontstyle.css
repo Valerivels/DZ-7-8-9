@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'OpenSans';
+ url('fonts/OpenSans_Regular/open_sans_regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:"LeagueGothic";
+url("fonts/LeagueGothic/league-gothic_[allfont.ru].ttf") format("truetype");
+ font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family: 'GeorgiaItalic';
+    url("fonts/georgia/georgia-italic.ttf") format("truetype");
+}
